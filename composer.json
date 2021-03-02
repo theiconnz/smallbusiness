@@ -2,11 +2,11 @@
     "name": "theiconnz/smallbusiness",
     "description": "Magento 2 small business module",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
-        "theiconnz/base":"0.0.1"
+        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.3.0|~7.4.0",
+        "theiconnz/base":"0.0.2"
     },
     "type": "magento2-module",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
